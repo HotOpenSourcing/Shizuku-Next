@@ -18,3 +18,5 @@
 *.jks
 *.keystore
 *.p12
+config.bat
+node_modules
